@@ -5,7 +5,7 @@
     --color-headings:#1b0760;
     --color-body:#918ca4;
 }
-
+/* Typography */
 html{
     font-size: 62.5%;
 }
@@ -54,4 +54,7 @@ p{
     }
     
 }
+
+/* Links */
+.links
 
