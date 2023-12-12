@@ -441,13 +441,10 @@ a {
         grid-template-columns: 1fr 1fr;
     }
 
-<<<<<<< HEAD
     }
 
 @media screen and (min-width: 1024px) {
     
-=======
->>>>>>> 635f69e6b96e5c31096bf6069eda2e7d5396c360
     .grid--1x3{
         margin-top: 1px;
         grid-template-columns: repeat(3, 1fr);
