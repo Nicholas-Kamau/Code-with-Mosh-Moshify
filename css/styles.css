@@ -707,7 +707,11 @@ a {
 
     .hero__content{
         text-align: left;
+<<<<<<< HEAD
         align-self: center;
+=======
+        
+>>>>>>> a46b0081876a676ee0122eadf88ab91f58f7e7dc
     }
     
 }
